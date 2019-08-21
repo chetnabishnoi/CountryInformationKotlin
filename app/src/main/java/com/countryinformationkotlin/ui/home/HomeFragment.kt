@@ -1,4 +1,4 @@
-package com.countryinformationkotlin.home.ui.homeactivity1
+package com.countryinformationkotlin.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.countryinformationkotlin.R
+import com.countryinformationkotlin.ui.home.viewmodel.HomeViewModel
 
 class HomeFragment : Fragment() {
 

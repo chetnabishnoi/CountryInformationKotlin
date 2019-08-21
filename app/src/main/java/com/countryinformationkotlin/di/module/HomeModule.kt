@@ -1,7 +1,7 @@
 package com.countryinformationkotlin.di.module
 
 import com.countryinformationkotlin.di.ViewModelBuilder
-import com.countryinformationkotlin.home.HomeFragment
+import com.countryinformationkotlin.ui.home.HomeFragment
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

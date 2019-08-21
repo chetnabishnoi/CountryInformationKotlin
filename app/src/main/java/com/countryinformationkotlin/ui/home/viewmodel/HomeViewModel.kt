@@ -1,4 +1,4 @@
-package com.countryinformationkotlin.home.ui.homeactivity1
+package com.countryinformationkotlin.ui.home.viewmodel
 
 import androidx.lifecycle.ViewModel
 
